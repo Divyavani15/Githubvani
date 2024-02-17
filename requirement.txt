@@ -6,3 +6,7 @@ color
 
 Darkmode
 videocalls
+
+payment option
+send money
+recived money
